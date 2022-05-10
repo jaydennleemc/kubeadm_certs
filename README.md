@@ -4,7 +4,7 @@
 Kubernetes certification valid one year only, some envirmoment will need more than one years.
 
 ## How it's work ?
-Just replace certification with 100 years and rebulild the kubeadm.
+Just replace certification with 100 years and rebuild the kubeadm.
 
 
 ## How to use ?
